@@ -36,7 +36,7 @@ This project creates a smart home automation hub that connects to Adafruit Bluef
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/bluefruit-smart-device.git
+   git clone https://github.com/nathan-james-s/bluefruit-smart-device.git
    cd bluefruit-smart-device
    ```
 
