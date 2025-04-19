@@ -45,6 +45,12 @@ This project creates a smart home automation hub that connects to Adafruit Bluef
    pip install -r requirements.txt
    ```
 
+    [Flask](https://flask.palletsprojects.com/en/stable/)
+    [gunicorn](https://gunicorn.org/)
+    [bleak](https://github.com/hbldh/bleak)
+    [asyncio](https://docs.python.org/3/library/asyncio.html)
+    [requests](https://pypi.org/project/requests/)
+
 3. **Start Minikube**
    ```bash
    minikube start
