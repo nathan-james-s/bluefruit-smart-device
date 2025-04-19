@@ -26,11 +26,11 @@ This project creates a smart home automation hub that connects to Adafruit Bluef
 
 ### Prerequisites
 
-- Docker
-- Minikube
-- kubectl
+- [Docker](https://docs.docker.com/desktop/)
+- [Minikube](https://minikube.sigs.k8s.io/docs/start/?arch=%2Fwindows%2Fx86-64)
+- [kubectl](https://kubernetes.io/docs/tasks/tools/)
 - Python 3.9+
-- Adafruit Bluefruit device (optional, system works with simulated data)
+- Adafruit Bluefruit device
 
 ### Installation Steps
 
